@@ -23,6 +23,7 @@
     } else {
         echo "<p>まだ投稿がありません。</p>";
         echo"きどちんこ";
+        echo "Nedringがおまんこを殺害しました。";
     }
     ?>
 </body>
