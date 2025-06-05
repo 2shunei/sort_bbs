@@ -8,8 +8,12 @@
 <body>
     <h1>💬 一言掲示板</h1>
     <form action="post.php" method="post">
+<<<<<<< HEAD
         <?php echo "ようこそ,",$_POST['name'],"さん";?>
         
+=======
+        <?php echo "ようこそ、",$_POST['name'] ,"さん";?>
+>>>>>>> 8ecfd6c77f866658e2fb03ae794754b44ae89f3a
         <p>コメント：<br>
         <textarea name="comment" rows="4" cols="40" required></textarea></p>
         <p><button type="submit">投稿する</button></p>
